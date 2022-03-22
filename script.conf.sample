@@ -1,0 +1,5 @@
+[Settings]
+rootpath: C:\Users\estnbrs\app-perf-monitoring\tool
+webdriverpath: C:\SeleniumWebdrivers
+# webdriver options: Chrome, Firefox, IE
+webdriver: Chrome

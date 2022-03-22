@@ -1,0 +1,8 @@
+put all of the comma-delimited items from eos_step_dureations.txt into a list
+the first step of each test run will be 1,10,20,30,40
+the second step of each test run will be 2,11,21,31,41
+.....
+average them as you traverse the list and write the result into a different comma-delmited file
+
+
+put this at the end of run-eos.py
